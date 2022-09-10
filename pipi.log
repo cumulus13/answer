@@ -1,0 +1,106 @@
+[2022/09/08 14:10:46.677526] install package #01/1. "mitmproxy" [try: #1]
+[2022/09/08 14:10:46.730740] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 14:10:46.731139] VIRTUAL_ENV
+[2022/09/08 14:12:35.869423] status: 256
+[2022/09/08 14:21:52.959417] status download 1: [mitmproxy]: False
+[2022/09/08 14:21:53.013367] install package #01/1. "mitmproxy" [try: #2]
+[2022/09/08 14:21:53.024127] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 14:21:53.024414] VIRTUAL_ENV
+[2022/09/08 14:23:30.076448] status: 256
+[2022/09/08 14:32:07.309536] status download 1: [mitmproxy]: False
+[2022/09/08 14:32:07.334084] install package #01/1. "mitmproxy" [try: #3]
+[2022/09/08 14:32:07.349488] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 14:32:07.349891] VIRTUAL_ENV
+[2022/09/08 14:33:31.955857] status: 256
+[2022/09/08 14:43:01.589900] status download 1: [mitmproxy]: False
+[2022/09/08 14:43:01.609845] install package #01/1. "mitmproxy" [try: #4]
+[2022/09/08 14:43:01.620450] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 14:43:01.620725] VIRTUAL_ENV
+[2022/09/08 14:45:24.777287] status: 256
+[2022/09/08 14:56:07.879681] status download 1: [mitmproxy]: False
+[2022/09/08 14:56:07.902610] install package #01/1. "mitmproxy" [try: #5]
+[2022/09/08 14:56:07.911550] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 14:56:07.911863] VIRTUAL_ENV
+[2022/09/08 14:57:40.820765] status: 256
+[2022/09/08 14:58:13.337464] status download 1: [mitmproxy]: False
+[2022/09/08 14:58:13.339129] install package #01/1. "mitmproxy" [try: #6]
+[2022/09/08 14:58:13.362072] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 14:58:13.362671] VIRTUAL_ENV
+[2022/09/08 14:58:14.356287] status: 2
+[2022/09/08 14:59:00.190137] install package #01/1. "mitmproxy" [try: #1]
+[2022/09/08 14:59:00.214316] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 14:59:00.215172] VIRTUAL_ENV
+[2022/09/08 14:59:22.815151] status: 2
+[2022/09/08 14:59:36.263879] install package #01/1. "mitmproxy" [try: #1]
+[2022/09/08 14:59:36.286026] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 14:59:36.286545] VIRTUAL_ENV
+[2022/09/08 15:00:58.719692] status: 256
+[2022/09/08 15:10:36.861703] status download 1: [mitmproxy]: False
+[2022/09/08 15:10:36.862257] install package #01/1. "mitmproxy" [try: #2]
+[2022/09/08 15:10:36.871844] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 15:10:36.872202] VIRTUAL_ENV
+[2022/09/08 15:11:42.615463] status: 256
+[2022/09/08 15:20:23.079056] status download 1: [mitmproxy]: False
+[2022/09/08 15:20:23.080175] install package #01/1. "mitmproxy" [try: #3]
+[2022/09/08 15:20:23.099163] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 15:20:23.100029] VIRTUAL_ENV
+[2022/09/08 15:20:51.055240] status: 256
+[2022/09/08 15:29:50.055082] status download 1: [mitmproxy]: False
+[2022/09/08 15:29:50.110403] install package #01/1. "mitmproxy" [try: #4]
+[2022/09/08 15:29:50.125497] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 15:29:50.126333] VIRTUAL_ENV
+[2022/09/08 15:30:13.682957] status: 256
+[2022/09/08 15:38:28.845935] status download 1: [mitmproxy]: False
+[2022/09/08 15:38:28.847122] install package #01/1. "mitmproxy" [try: #5]
+[2022/09/08 15:38:28.867707] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 15:38:28.868165] VIRTUAL_ENV
+[2022/09/08 15:39:17.549810] status: 256
+[2022/09/08 15:48:07.380329] status download 1: [mitmproxy]: False
+[2022/09/08 15:48:07.406820] install package #01/1. "mitmproxy" [try: #6]
+[2022/09/08 15:48:07.425941] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 15:48:07.426398] VIRTUAL_ENV
+[2022/09/08 15:48:53.697612] status: 256
+[2022/09/08 15:49:12.933617] status download 1: [mitmproxy]: False
+[2022/09/08 15:49:12.935139] install package #01/1. "mitmproxy" [try: #7]
+[2022/09/08 15:49:12.955652] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 15:49:12.957277] VIRTUAL_ENV
+[2022/09/08 15:49:28.603286] install package #01/1. "mitmproxy" [try: #1]
+[2022/09/08 15:49:28.625415] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 15:49:28.625830] VIRTUAL_ENV
+[2022/09/08 15:50:30.151581] status: 256
+[2022/09/08 15:59:02.762997] status download 1: [mitmproxy]: False
+[2022/09/08 15:59:02.764391] install package #01/1. "mitmproxy" [try: #2]
+[2022/09/08 15:59:02.783058] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 15:59:02.783514] VIRTUAL_ENV
+[2022/09/08 16:00:02.764980] status: 256
+[2022/09/08 16:08:35.899973] status download 1: [mitmproxy]: False
+[2022/09/08 16:08:35.901228] install package #01/1. "mitmproxy" [try: #3]
+[2022/09/08 16:08:35.918721] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 16:08:35.919095] VIRTUAL_ENV
+[2022/09/08 16:09:34.752668] status: 256
+[2022/09/08 16:18:08.198979] status download 1: [mitmproxy]: False
+[2022/09/08 16:18:08.200692] install package #01/1. "mitmproxy" [try: #4]
+[2022/09/08 16:18:08.223692] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 16:18:08.224133] VIRTUAL_ENV
+[2022/09/08 16:19:08.353711] status: 256
+[2022/09/08 16:27:51.342549] status download 1: [mitmproxy]: False
+[2022/09/08 16:27:51.343884] install package #01/1. "mitmproxy" [try: #5]
+[2022/09/08 16:27:51.362064] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 16:27:51.362817] VIRTUAL_ENV
+[2022/09/08 16:28:55.343582] status: 256
+[2022/09/08 16:37:21.139348] status download 1: [mitmproxy]: False
+[2022/09/08 16:37:21.140390] install package #01/1. "mitmproxy" [try: #6]
+[2022/09/08 16:37:21.150825] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 16:37:21.151108] VIRTUAL_ENV
+[2022/09/08 16:38:17.153183] status: 256
+[2022/09/08 16:48:02.699612] status download 1: [mitmproxy]: False
+[2022/09/08 16:48:02.724561] install package #01/1. "mitmproxy" [try: #7]
+[2022/09/08 16:48:02.739925] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 16:48:02.740310] VIRTUAL_ENV
+[2022/09/08 16:49:01.746439] status: 256
+[2022/09/08 16:58:28.871637] status download 1: [mitmproxy]: False
+[2022/09/08 16:58:28.872592] install package #01/1. "mitmproxy" [try: #8]
+[2022/09/08 16:58:28.884840] python -m pip install 'mitmproxy' --upgrade --no-cache --no-cache-dir
+[2022/09/08 16:58:28.885303] VIRTUAL_ENV
+[2022/09/08 16:59:48.016349] status: 0
+[2022/09/08 16:59:48.016675] install package #01/1. "mitmproxy" [try: #8]

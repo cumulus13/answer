@@ -1,0 +1,7 @@
+Protobuf >= 3.11.0,<= 3.20.1
+rich
+make_colors
+pydebugger
+configset
+progressbar2
+requests
