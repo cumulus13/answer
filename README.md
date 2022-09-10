@@ -52,7 +52,7 @@ $ python answer.py -C "{{8945[234])gf){44434}"
 $ FALSE
 $ python answer.py -C "{{(89(45[234])gf)}}{44434}"
 $ TRUE
-$ # or you cant use -c 9(lowercase) to interactive mod
+$ # or you cant use -c (lowercase) to interactive mod
 $ python answer.py -c          
 $ Input any text or type 'q' or 'x' for exit: {{8945[234])gf){44434}
 $ FALSE
@@ -132,7 +132,7 @@ Buku
       Feminity Book Import
 
     ...
-    
+
 ```
 
 author
