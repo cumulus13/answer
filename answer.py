@@ -13,7 +13,17 @@ if sys.platform == 'win32':
 		os.environ.update({'MAKE_COLORS':'0'})
 import re
 import time
-import progressbar
+try:
+	from . import progressbar
+except:
+	try:
+		import progressbar
+	except:
+		print(make_colors("install `progressbar2` module", 'ly'))
+		a = os.system('pip install progressbar2')	
+		if a:
+			print(make_colors("it's seem error while on installing progressbar2 module !"))
+		
 import traceback
 try:
 	import requests
@@ -28,15 +38,34 @@ except:
 		if q == 'y':
 			sys.exit()
 from configset import configset
-from debug import debug
+try:
+	from debug import debug
+except:
+	try:
+		from .debug import debug
+	except:
+		print(make_colors("install `pydebugger` module", 'ly'))
+		a = os.system('pip install pydebugger')
+		if a:
+			print(make_colors("it's seem error while on installing pydebugger module !"))
+		from pydebugger.debug import debug
+
 import sqlite3 as sqlite
 import ast
 import json
 import time
 import argparse
-import get_version
-from multiprocessing import Process
-import concurrent.futures
+try:
+	from . import get_version
+except:
+	try:
+		import get_version
+	except:
+		import importlib.machinery
+		get_version = importlib.machinery.SourceFileLoader('get_version', os.path.join(os.path.dirname(os.path.realpath(__file__)), 'get_version.py')).load_module()
+
+# from multiprocessing import Process
+# import concurrent.futures
 
 class Check(object):
 	def __init__(self):
@@ -695,7 +724,7 @@ if __name__ == '__main__':
 	# Table.navigator('postgresql')
 	# Table.update = True
 	# Table.navigator()
-	# usage()
-	Table.setup_db()
+	usage()
+	# Table.setup_db()
 	# print_me()
 	# print_code(Check.check)

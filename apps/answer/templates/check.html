@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{%block body%}
+
+	<div class="form-outline">
+		<center>
+		  <textarea class="form-control" id="check_input" rows="4" placeholder="Please input any string"></textarea>
+		  <!-- <label class="form-label" for="check_input">Please input any string</label> -->
+		  <div>
+		  	<button type="submit" class="btn btn-primary" onclick="/check/check">Submit</button>
+		  </div>
+		</center>
+	</div>
+	<div>
+		<center><p>{{message}}</p></center>
+	</div>
+
+	<div class = 'column is-one-third'>
+
+		{{ form.as_p }}
+		
+	</div>
+{% endblock %}
